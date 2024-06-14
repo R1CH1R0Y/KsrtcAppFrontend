@@ -1,0 +1,19 @@
+a {
+    padding: 10px;
+    background-color: blue;
+    border-radius: 70px;
+    width: 250px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    transition: 550ms;
+}
+
+a:hover{
+    background-color: #7CB9E8;
+    transform: scale(1.08);
+}
+
+.head{
+    color: white;
+}

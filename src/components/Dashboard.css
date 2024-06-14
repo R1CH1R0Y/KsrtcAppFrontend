@@ -1,0 +1,26 @@
+.dash {
+    display: grid;
+    place-items: center;
+}
+
+.dash > a {
+    padding: 10px;
+    background-color: blue;
+    border-radius: 70px;
+    width: 250px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    transition: 550ms;
+}
+
+.dash > h1 {
+    padding: 50px;
+    font-style: oblique;
+    color: #B2FFFF;
+}
+
+a:hover{
+    background-color: #7CB9E8;
+    transform: scale(1.09);
+}
